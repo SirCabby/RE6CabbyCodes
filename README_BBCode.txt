@@ -98,14 +98,6 @@ It is made for the current Steam version of the game (build 10112070). On anothe
 
 The mod says why - in a message box as the game starts (such as a missing steam_api_orig.dll, with the steps to fix it), or in the panel. Otherwise send [b]RE6CabbyCodes.log[/b] and [b]RE6CabbyCodes.prev.log[/b] from the game's folder. When the game closes by itself, the log's last lines say how it ended, or where it crashed.
 
-[size=5][b]Please read before using[/b][/size]
-[list]
-[*]This is a first version: everything it uses was found in the game's own code and checked against it, but it has not been played with yet. Expect rough edges, and report them with the log.
-[*]The cheats act in a game of your own; online, the other player's side is left to their game.
-[*]Awarding an emblem, or completing chapters and titles that earn achievements, unlocks those achievements on your Steam account, as earning them in the game does.
-[*]The game saves to Steam Cloud by itself: what you change is kept by its next save.
-[/list]
-
 [size=5][b]Config[/b][/size]
 
 [code]
